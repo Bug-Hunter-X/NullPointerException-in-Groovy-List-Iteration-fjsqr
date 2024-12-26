@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy error: a NullPointerException when iterating over a list that might be null. The `bug.groovy` file shows the problematic code, while `bugSolution.groovy` provides a corrected version that handles the null case gracefully.
